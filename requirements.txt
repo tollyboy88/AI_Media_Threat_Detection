@@ -5,11 +5,5 @@ tensorflow==2.11.0
 keras==2.11.0
 protobuf==3.19.6
 tf-keras
-pyaudio
 speechrecognition
-numpy
-requests
-gdown
-pandas
-tqdm
-Pillow
+pyaudio
