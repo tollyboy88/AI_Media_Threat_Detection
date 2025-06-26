@@ -3,8 +3,8 @@ from email.message import EmailMessage
 
 def send_email_alert(subject, body, to_email, screenshot_path=None):
     # Configuration — replace with your credentials or environment variables
-    EMAIL_ADDRESS = "tollyboy88@gmail.com"
-    EMAIL_PASSWORD = "sahfufkmcepvwvhx"  # Use app password if using Gmail
+    EMAIL = os.getenv("EMAIL_ADDRESS")
+    PASSWORD = os.getenv("EMAIL_PASSWORD")  # Use app password if using Gmail
 
     msg = EmailMessage()
     msg["Subject"] = subject
