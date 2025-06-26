@@ -1,0 +1,4 @@
+language = "python"
+run = "streamlit run dashboard.py"
+[env]
+PYTHON_VERSION = "3.10"
