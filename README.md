@@ -4,7 +4,7 @@ This project uses AI to detect emotional expressions in images and videos, and p
 
 ## 🚀 Project Link
 
-**Live App**: [Launch Now](https://huggingface.co/spaces/tollyboy88/AI_Media_Threat_Detection)
+**App**: [(https://github.com/tollyboy88/AI_Media_Threat_Detection/tree/main))
 
 ---
 
